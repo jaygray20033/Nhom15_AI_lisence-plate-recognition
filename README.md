@@ -34,6 +34,9 @@ Dự án nhận dạng ký tự trên biển số xe sử dụng mạng nơ-ron 
 - Xử lý ảnh nghiêng
 - Tách ký tự từ biển số
 
-## Thành viên nhóm
+## Thành viên nhóm 15
 
-- Nhóm 15
+- Bùi Đình Quyết
+- Huỳnh Nhật Minh
+- Nguyễn Như Hoàn
+- Phạm Anh Tuấn
